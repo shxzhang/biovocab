@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="bioVocabLogo.svg">
+  <defs
+     id="defs2">
+    <rect
+       x="23.118814"
+       y="89.134387"
+       width="78.042702"
+       height="22.317005"
+       id="rect869" />
+    <rect
+       x="29.666917"
+       y="84.189901"
+       width="31.270535"
+       height="14.566189"
+       id="rect863" />
+    <rect
+       x="32.606882"
+       y="48.108515"
+       width="68.688268"
+       height="23.386083"
+       id="rect862" />
+    <rect
+       x="16.169806"
+       y="82.051745"
+       width="49.311228"
+       height="23.118814"
+       id="rect856" />
+    <rect
+       x="31.805074"
+       y="34.745039"
+       width="33.94323"
+       height="21.114293"
+       id="rect848" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="348.36723"
+     inkscape:cy="223.20922"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1106"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 21.544643,68.791671 61.739261,81.249934 99.40773,68.791671 V 27.970236 H 21.544643 Z"
+       id="path844" />
+    <text
+       xml:space="preserve"
+       id="text846"
+       style="font-size:12.7px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';white-space:pre;shape-inside:url(#rect848);"><tspan
+         x="31.804688"
+         y="46.418224"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Bauhaus 93';-inkscape-font-specification:'Bauhaus 93, '">Bio</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text854"
+       style="font-size:12.7px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';white-space:pre;shape-inside:url(#rect856);"
+       transform="translate(33.937858,-47.445713)"><tspan
+         x="16.169922"
+         y="93.490362"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold'">Vocab</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text860"
+       style="font-size:11.2889px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';white-space:pre;shape-inside:url(#rect862);"
+       transform="translate(-2.6458334,-3.1750001)"><tspan
+         x="32.607422"
+         y="58.37128"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:Elephant;-inkscape-font-specification:Elephant">CRUNCH</tspan></tspan></text>
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
+       id="rect866"
+       width="39.823158"
+       height="9.3544369"
+       x="49.311226"
+       y="37.551373" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.165;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 28.196934,27.796029 V 70.826423"
+       id="path868" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.165;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 93.266321,27.796 V 70.826394"
+       id="path868-4" />
+    <text
+       xml:space="preserve"
+       id="text861"
+       style="font-size:3.52778px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';white-space:pre;shape-inside:url(#rect863);"
+       transform="translate(16.44782,-27.924293)"><tspan
+         x="29.666016"
+         y="87.367117"><tspan>version 1 SZhang</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text867"
+       style="font-size:3.52778px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';white-space:pre;shape-inside:url(#rect869);"><tspan
+         x="23.119141"
+         y="92.312429"><tspan>To put on the back of the cards as credit / keep </tspan></tspan><tspan
+         x="23.119141"
+         y="96.722158"><tspan>track of version number. (The card design </tspan></tspan><tspan
+         x="23.119141"
+         y="101.13189"><tspan>dimension is that of regular playing cards and so </tspan></tspan><tspan
+         x="23.119141"
+         y="105.54162"><tspan>can be send in to be made into playing cards.)</tspan></tspan></text>
+  </g>
+</svg>
